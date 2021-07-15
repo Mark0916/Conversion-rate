@@ -9,3 +9,6 @@ tremendous opportunity to understand what's working well (and potentially scale 
 and what's not working well (and fix it).
 The goal of this challenge is to build a model that predicts conversion rate and, based on the
 model, come up with ideas to improve re]enue.
+
+
+text source: A Collection of Take Home Data Science Challenges by Data Science Bootcamps
